@@ -1,5 +1,5 @@
 <div>
-  <img width="350" align="left" src="https://github.com/Quinchy/Quinchy/blob/main/QuinchY.gif"/>
+  <img width="350" align="right" src="https://github.com/Quinchy/Quinchy/blob/main/QuinchY.gif"/>
   <br>
   <h1>H̶͎̦͎͇̤͕̝͛̓̈̚ ̵̨̫̤̝̮̦̍̊̐̏̾͂̂̉͒̑̈́̀̈́͝͝ͅȨ̷̛̯̠̙͉̞̏̉́̒̿̀̀͑͌̔͝ ̷̤̳͇̙͓̞̓̓̏͗̎͆́̂͝͝L̷̡̢̼̤̙̭͔̥̲͐̓͌͜ ̶̺͖̈́̑̌̌̈L̵̢̛̠̫͍͕̦̒͐̇̂̇̆̄͝ ̷̣̻̩̳̤̠̿̊͋Ơ̴̧̨̺̮̪͉̫̈̿͠͠</h1>
   <p>
