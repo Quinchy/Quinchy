@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
+<styles>
   @keyframes wave {
     0%, 60%, 100% {
       transform: translateY(0);
@@ -44,7 +44,7 @@
   h1 span:nth-child(6) { animation-delay: 0.6s; }
   h1 span:nth-child(7) { animation-delay: 0.7s; }
   h1 span:nth-child(8) { animation-delay: 0.8s; }
-</style>
+</styles>
 </head>
 <body>
   <div align="center">
