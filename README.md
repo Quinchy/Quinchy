@@ -3,48 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<styles>
-  @keyframes wave {
-    0%, 60%, 100% {
-      transform: translateY(0);
-    }
-    30% {
-      transform: translateY(-10px);
-    }
-  }
-
-  @keyframes jump {
-    0%, 60%, 100% {
-      transform: translateY(0);
-    }
-    30% {
-      transform: translateY(-10px);
-    }
-  }
-
-  h1 span {
-    display: inline-block;
-    animation-duration: 1.2s;
-    animation-iteration-count: infinite;
-  }
-
-  h1 .emoji-wave {
-    animation-name: jump;
-  }
-
-  h1 .emoji-middlefinger {
-    animation-name: jump;
-  }
-
-  h1 span:nth-child(1) { animation-delay: 0.1s; }
-  h1 span:nth-child(2) { animation-delay: 0.2s; }
-  h1 span:nth-child(3) { animation-delay: 0.3s; }
-  h1 span:nth-child(4) { animation-delay: 0.4s; }
-  h1 span:nth-child(5) { animation-delay: 0.5s; }
-  h1 span:nth-child(6) { animation-delay: 0.6s; }
-  h1 span:nth-child(7) { animation-delay: 0.7s; }
-  h1 span:nth-child(8) { animation-delay: 0.8s; }
-</styles>
 </head>
 <body>
   <div align="center">
