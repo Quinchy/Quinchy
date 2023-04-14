@@ -7,6 +7,8 @@
   </pre>
 </div>
 &nbsp;
+&nbsp;
+&nbsp;
 <h2 align="center" style="margin-top: 100px;">Projects</h2>
 &nbsp;
 <h2 align="center" style="margin-top: 50px;">Certifications</h2>
