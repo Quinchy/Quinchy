@@ -28,11 +28,8 @@
 </div>
 
 <h2 align="center" style="margin-top: 50px;"></h2>
-<pre>
-<p align="left">
+<p align="center">
   <img width="70" height="70" src="image/quinch1.png"/>
   <img width="70" height="70" src="image/quinch2.png"/>
   <img width="70" height="70"  src="image/quinch3.png"/>
 </p>
-
-</pre>
