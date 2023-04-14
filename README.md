@@ -6,20 +6,29 @@
 • Ewan ko pa?
   </pre>
 </div>
-&nbsp;
-&nbsp;
-&nbsp;
-<h2 align="center" style="margin-top: 1000px;">Projects</h2>
-&nbsp;
-<h2 align="center" style="margin-top: 50px;">Certifications</h2>
-&nbsp;
-<h2 align="center" style="margin-top: 50px;">Techs</h2>
-&nbsp;
+
+<div style="text-align: center;">
+
+  ## Projects
+  
+</div>
+<div style="text-align: center;">
+
+  ## Certifications
+
+</div>
+<div style="text-align: center;">
+
+  ## Techs
+
+</div>
+
 <h2 align="center" style="margin-top: 50px;"></h2>
 <pre>
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img style="width: 70px;" src="image/quinch1.png"/>
-  <img style="width: 70px;" src="image/quinch2.png"/>
-  <img style="width: 70px;" src="image/quinch3.png"/>
-</div>
+<p align="left">
+  <img width="70" height="70" src="image/quinch1.png"/>
+  <img width="70" height="70" src="image/quinch2.png"/>
+  <img width="70" height="70"  src="image/quinch3.png"/>
+</p>
+
 </pre>
