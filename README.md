@@ -1,5 +1,5 @@
 <div>
-  <img style="float: right; width: 200px; margin-top: 10px;" src="image/QuinchY.gif"/>
+  <img align="right" style="width: 200px; margin-top: 10px;" src="image/QuinchY.gif"/>
   <h2 align="center" >Cyril James De Guzman</h2>
   &nbsp;
   <pre>
