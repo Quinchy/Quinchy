@@ -1,12 +1,23 @@
 <div>
-  <img width="350" align="right" src="https://github.com/Quinchy/Quinchy/blob/main/QuinchY.gif"/>
-  <br>
-  <h1 align="center">H̶͎̦͎͇̤͕̝͛̓̈̚ ̵̨̫̤̝̮̦̍̊̐̏̾͂̂̉͒̑̈́̀̈́͝͝ͅȨ̷̛̯̠̙͉̞̏̉́̒̿̀̀͑͌̔͝ ̷̤̳͇̙͓̞̓̓̏͗̎͆́̂͝͝L̷̡̢̼̤̙̭͔̥̲͐̓͌͜ ̶̺͖̈́̑̌̌̈L̵̢̛̠̫͍͕̦̒͐̇̂̇̆̄͝ ̷̣̻̩̳̤̠̿̊͋Ơ̴̧̨̺̮̪͉̫̈̿͠͠</h1>
+  <img style="float: right; width: 200px; margin-top: 10px;" src="image/QuinchY.gif"/>
+  <h2 align="center" >Cyril James De Guzman</h2>
+  &nbsp;
   <pre>
-    I'M
-    <br />                                 Q
-    <br />                                                          U
-    <br />                   I                     N
-    <br />                              C                                H
+• Ewan ko pa?
   </pre>
 </div>
+&nbsp;
+<h2 align="center" style="margin-top: 50px;">Projects</h2>
+&nbsp;
+<h2 align="center" style="margin-top: 50px;">Certifications</h2>
+&nbsp;
+<h2 align="center" style="margin-top: 50px;">Techs</h2>
+&nbsp;
+<h2 align="center" style="margin-top: 50px;"></h2>
+<pre>
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img style="width: 70px;" src="image/quinch1.png"/>
+  <img style="width: 70px;" src="image/quinch2.png"/>
+  <img style="width: 70px;" src="image/quinch3.png"/>
+</div>
+</pre>
