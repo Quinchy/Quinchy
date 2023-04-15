@@ -3,8 +3,8 @@
   <h2 align="center" >Cyril James De Guzman</h2>
   &nbsp;
   <pre>
-• ?
-• ?
+• Com Sci student
+• Prompter
 • ?
 • ?
 • ?
