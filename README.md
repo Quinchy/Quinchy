@@ -3,8 +3,7 @@
   <img align="right" style="width: 200px; margin-top: 10px;" src="image/QuinchY.gif"/>
  <p align='center'> 
    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7AD&width=435&lines=Hi!+I'm+Cyril+James+De+Guzman.)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7AD&width=435&lines=Hi!+I'm+Cyril+James+De+Guzman." alt="Typing SVG" /></a>
   </p>
   <pre>• Com Sci Student at Bataan Peninsula State University
 • Software Developer
