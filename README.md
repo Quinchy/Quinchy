@@ -6,12 +6,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7AD&width=435&lines=Hi!+I'm+Cyril+James+De+Guzman.)](https://git.io/typing-svg)
 
   </p>
-  <pre>
-• Com Sci Student at Bataan Peninsula State University
+  <pre>• Com Sci Student at Bataan Peninsula State University
 • Software Developer
 • Web Designer
-• Code Prompter
-  </pre>
+• Code Prompter</pre>
  Visit me at https://quinch.vercel.app/
 </div>
 
