@@ -3,15 +3,15 @@
 <div style="margin-right: 10px">
 <img align="right" style="width:300px;" src="image/QuinchY.gif"/>
  </div>
-<p>• Com Sci Student at Bataan Peninsula State University</p>
+• Com Sci Student at Bataan Peninsula State University
 <br />
-<p>• Software Developer</p>
+• Software Developer
 <br />
-<p>• Web Designer</p>
+• Web Designer
 <br />
-<p>• Code Prompter</p>
+• Code Prompter
 <br />
-<p>• Visit me at https://quinch.vercel.app/</p>
+• Visit me at https://quinch.vercel.app/
 <br />
 
  <div align="center">
