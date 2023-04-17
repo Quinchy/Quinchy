@@ -3,11 +3,15 @@
  
 <img align="right" style="width: 100px;" src="image/QuinchY.gif"/>
 • Com Sci Student at Bataan Peninsula State University
+<br />
 • Software Developer
+<br />
 • Web Designer
-• Code Prompter</pre>
+<br />
+• Code Prompter
+<br />
 • Visit me at https://quinch.vercel.app/
-
+<br />
 <div align="center">
 
   ## Projects
