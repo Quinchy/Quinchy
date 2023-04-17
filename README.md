@@ -7,7 +7,7 @@
 • Software Developer
 • Web Designer
 • Code Prompter
-• visit me at [Link text Here](https://quinch.vercel.app/)
+• visit me at [https://quinch.vercel.app/](https://quinch.vercel.app/)
   </pre>
 </div>
 
