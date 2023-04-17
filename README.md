@@ -8,10 +8,7 @@
 • Web Designer
 • Code Prompter
   </pre>
- visit me at 
-
-
-[https://quinch.vercel.app/](https://quinch.vercel.app/)
+ Visit me at [https://quinch.vercel.app/](https://quinch.vercel.app/)
 </div>
 
 <div style="text-align: center;">
