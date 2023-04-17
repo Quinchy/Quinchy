@@ -3,7 +3,7 @@
   <img align="right" style="width: 200px; margin-top: 10px;" src="image/QuinchY.gif"/>
  <p align='center'> 
    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Cyril+James+De+Guzman.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7AD&width=435&lines=Hi!+I'm+Cyril+James+De+Guzman.)](https://git.io/typing-svg)
 
   </p>
   <pre>
