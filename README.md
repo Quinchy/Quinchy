@@ -3,11 +3,11 @@
   <h2 align="center" >Cyril James De Guzman</h2>
   &nbsp;
   <pre>
-• Com Sci student
-• Prompter
-• ?
-• ?
-• ?
+• Com Sci Student at Bataan Peninsula State University
+• Software Developer
+• Web Designer
+• Code Prompter
+• visit me at https://quinch.vercel.app/
   </pre>
 </div>
 
