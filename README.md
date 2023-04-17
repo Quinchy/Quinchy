@@ -25,7 +25,7 @@
 
 <div align="center">
 
-  ## Programming Languages and Tools
+  ## Skillsets
 
 </div>
 
