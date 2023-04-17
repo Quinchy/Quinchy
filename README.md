@@ -1,11 +1,9 @@
-<link rel="stylesheet" href="https://unpkg.com/@auroratide/typewritten-text/lib/style.css" />
-<script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js"></script>
 [![](https://visitcount.itsvg.in/api?id=Quinchy&icon=5&color=9)](https://visitcount.itsvg.in)
 <div>
   <img align="right" style="width: 200px; margin-top: 10px;" src="image/QuinchY.gif"/>
   <h2 align="center" >
     
-    <typewritten-text repeat>Hi! I'm Cyril James De Guzman</typewritten-text>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Cyril+James+De+Guzman.)](https://git.io/typing-svg)
   
   </h2>
   &nbsp;
