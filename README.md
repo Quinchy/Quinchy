@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://unpkg.com/@auroratide/typewritten-text/lib/style.css" />
+<script type="module" src="https://unpkg.com/@auroratide/typewritten-text/lib/define.js"></script>
 [![](https://visitcount.itsvg.in/api?id=Quinchy&icon=5&color=9)](https://visitcount.itsvg.in)
 <div>
   <img align="right" style="width: 200px; margin-top: 10px;" src="image/QuinchY.gif"/>
