@@ -12,17 +12,18 @@
  Visit me at https://quinch.vercel.app/
 </div>
 
-<div style="text-align: center;">
+<div align="center">
 
   ## Projects
   
 </div>
-<div style="text-align: center;">
+<div align="center">
 
   ## Certifications
 
 </div>
-<div style="text-align: center;">
+
+<div align="center">
 
   ## Techs
 
