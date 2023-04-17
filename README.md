@@ -1,8 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=Quinchy&icon=5&color=9)](https://visitcount.itsvg.in)
  <p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7AD&width=435&lines=Hi!+I'm+Cyril+James+De+Guzman." alt="Typing SVG" /></a></p>
-<div style="margin-right: 10px">
-<img align="right" style="width:300px;" src="image/QuinchY.gif"/>
- </div>
+
+<img align="right" style="width:200px;" src="image/QuinchY.gif"/>
+<br /> 
 • Com Sci Student at Bataan Peninsula State University
 <br />
 • Software Developer
