@@ -2,12 +2,11 @@
  <p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7AD&width=435&lines=Hi!+I'm+Cyril+James+De+Guzman." alt="Typing SVG" /></a></p>
 <div align='center'>
 <img align="right" style="width: 200px;" src="image/QuinchY.gif"/>
-  <pre>• Com Sci Student at Bataan Peninsula State University
+• Com Sci Student at Bataan Peninsula State University
 • Software Developer
 • Web Designer
 • Code Prompter</pre>
- Visit me at https://quinch.vercel.app/
-</div>
+• Visit me at https://quinch.vercel.app/
 
 <div align="center">
 
