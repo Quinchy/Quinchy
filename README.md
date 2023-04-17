@@ -2,6 +2,7 @@
  <p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7AD&width=435&lines=Hi!+I'm+Cyril+James+De+Guzman." alt="Typing SVG" /></a></p>
  
 <img align="right" style="width: 100px;" src="image/QuinchY.gif"/>
+<div>
 • Com Sci Student at Bataan Peninsula State University
 <br />
 • Software Developer
@@ -12,7 +13,9 @@
 <br />
 • Visit me at https://quinch.vercel.app/
 <br />
-<div align="center">
+</div>
+
+ <div align="center">
 
   ## Projects
   
