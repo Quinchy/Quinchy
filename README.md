@@ -25,7 +25,7 @@
 
 <div align="center">
 
-  ## Techs
+  ## Programming Languages and Tools
 
 </div>
 
