@@ -29,6 +29,10 @@
 </div>
 
 <h2 align="center" style="margin-top: 50px;"></h2>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Quinchy&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Quinchy&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Quinchy&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p align="center">
   <img width="70" height="70" src="image/quinch1.png"/>
   <img width="70" height="70" src="image/quinch2.png"/>
