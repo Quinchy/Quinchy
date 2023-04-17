@@ -4,7 +4,7 @@
 <img align="right" style="width: 100px; margin-left:10px;" src="image/QuinchY.gif"/>
  </div>
 <div style="margin-right: 10px;">
-• Com Sci Student at Bataan Peninsula State University
+<p>• Com Sci Student at Bataan Peninsula State University</p>
 <br />
 • Software Developer
 <br />
