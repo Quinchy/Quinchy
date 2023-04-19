@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=Quinchy&icon=5&color=9)](https://visitcount.itsvg.in)
 
 <img align="right" style="width:200px;" src="image/QuinchY.gif"/>
-<p align='left'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33F7AD&width=435&lines=Hi!+I'm+Cyril+James+De+Guzman." alt="Typing SVG" /></a></p>
+<p align='left'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=18F7C1&width=535&height=100&lines=%3E+Cyril+James+De+Guzman" alt="Typing SVG" /></a></p>
 
 • Com Sci Student at Bataan Peninsula State University
 <br />
