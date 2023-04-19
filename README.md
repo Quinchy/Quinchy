@@ -6,8 +6,9 @@
 
 </div>
 
+<p align='center' style="color:#18F7C1FF">Cyril James De Guzman</p>
 
-<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=18F7C1&center=true&width=535&height=100&lines=%3E+Cyril+James+De+Guzman" alt="Typing SVG" /></a></p>
+<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=18F7C1&center=true&width=535&height=100&lines=%E2%80%A2+Software+Developer;%E2%80%A2+Web+Designer;%E2%80%A2+Prompter" alt="Typing SVG" /></a></p>
 
 
  <br />
