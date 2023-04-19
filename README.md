@@ -1,19 +1,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=Quinchy&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<img align="right" style="width:200px;" src="image/QuinchY.gif"/>
-<p align='left'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=18F7C1&width=535&height=100&lines=%3E+Cyril+James+De+Guzman" alt="Typing SVG" /></a></p>
+<img align="center" style="width:200px;" src="image/QuinchY.gif"/>
 
-• Com Sci Student at Bataan Peninsula State University
-<br />
-• Software Developer
-<br />
-• Web Designer
-<br />
-• Code Prompter
-<br />
-• Visit me at https://quinch.vercel.app/
-<br />
+<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=18F7C1&center=true&width=535&height=100&lines=%3E+Cyril+James+De+Guzman" alt="Typing SVG" /></a></p>
+
 
  <br />
  <br />
