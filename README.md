@@ -9,13 +9,13 @@
 <p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=18F7C1&center=true&width=535&height=100&lines=Cyril+James+De+Guzman" alt="Typing SVG" /></a></p>
 
 
-<div align="left">
+<div align="center">
   
   ## Programming Languages
   
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -35,13 +35,13 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  /> 
 </div>
 
-<div align="left">
+<div align="center">
   
   ## Frameworks
   
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
@@ -53,13 +53,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
 
-<div align="left">
+<div align="center">
   
   ## Tools
   
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
