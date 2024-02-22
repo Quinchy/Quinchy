@@ -33,7 +33,6 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  /> 
-  <h2 align="center" style="margin-top: 50px;"></h2>
 </div>
 
 <div align="left">
@@ -52,7 +51,6 @@
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <h2 align="center" style="margin-top: 50px;"></h2>
 </div>
 
 <div align="left">
@@ -77,7 +75,6 @@
   <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <h2 align="center" style="margin-top: 50px;"></h2>
 </div>
 
 <div align="center">
