@@ -81,7 +81,9 @@
 </div>
 
 <div align="center">
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Quinchy&theme=vue-dark&hide_border=false)<br/>
+
 </div>
 
 <h2 align="center" style="margin-top: 50px;"></h2>
