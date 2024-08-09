@@ -8,17 +8,12 @@
 
 <h1 align="center">About Me</h1>
 
-###
 
 <p align="center">➡️ Hello! My name is Cyril James De Guzman.  <br><br>➡️ I'm a Computer Science Student Majoring in Software Development in Bataan Peninsula State University - Main Campus.<br><br>➡️ I am focused on Software Development though I love exploring new technology and learning new things.</p>
 <br />
-###
-
-###
 
 <h2 align="center">Technologies I Have Used</h2>
 
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
@@ -54,7 +49,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 <br />
-###
 
 <h2 align="center">My Stats</h2>
 
