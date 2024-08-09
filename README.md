@@ -6,4 +6,4 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=35&pause=1000&color=6CFFDA&center=true&vCenter=true&width=500&height=100&lines=Cyril+James+De+Guzman)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=35&pause=1000&color=6CFFDA&center=true&vCenter=true&width=1000&height=100&lines=Cyril+James+De+Guzman" alt="Typing SVG" /></a>
