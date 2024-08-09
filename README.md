@@ -13,6 +13,14 @@
   <img src="https://github-profile-trophy.vercel.app?username=Quinchy&theme=tokyonight&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
+<h1 align="center">About Me</h1>
+
+###
+
+<p align="center">➡️ Hello! My name is Cyril James De Guzman.  <br><br>➡️ I'm a Computer Science Student Majoring in Software Development in Bataan Peninsula State University - Main Campus.<br><br>➡️ I am focused on Software Development though I love exploring new technology and learning new things.</p>
+
+###
+
 ###
 
 <h2 align="center">Technologies I Have Used</h2>
