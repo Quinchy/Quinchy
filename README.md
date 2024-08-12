@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Quinchy&icon=5&color=9)](https://visitcount.itsvg.in)
 
 <div style="overflow: auto;">
-  <img src="image/QuinchY.gif" alt="My Logo" style="float: right; width: 200px; margin-left: 20px;">
+  <img src="image/QuinchY.gif" alt="My Logo" align="right" style="float: right; width: 200px; margin-left: 20px;">
   <p>
     👋 Hello! My name is Cyril James De Guzman.<br>
     💻 I'm a Computer Science Student Majoring in Software Development at Bataan Peninsula State University - Main Campus.<br>
