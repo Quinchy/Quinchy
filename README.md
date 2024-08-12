@@ -9,7 +9,7 @@
 
 <br />
 
-<h2 align="center">Technologies I Have Used</h2>
+# Technologies I Have Used
 
 
 <div align="center">
@@ -47,7 +47,7 @@
 </div>
 <br />
 
-<h2 align="center">My Stats</h2>
+# My Stats
 
 ###
 
