@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Quinchy&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<img align="right" style="width:300px;" src="image/QuinchY.gif"/>
+<img align="right" margin-top="10px" style="width:300px;" src="image/QuinchY.gif"/>
 
 # About Me
 
