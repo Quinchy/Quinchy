@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Quinchy&icon=5&color=9)](https://visitcount.itsvg.in)
 
 <img align="right" style="width:200px;" src="image/QuinchY.gif"/>
-![My Logo](image/QuinchY.gif)
+![My Logo]('image/QuinchY.gif')
 <h1>About Me</h1>
 
 
