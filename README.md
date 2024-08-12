@@ -1,6 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=Quinchy&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<img align="right" margin-top="100px" style="width:250px;margin-top: 20px;" src="image/QuinchY.gif"/>
+<div style="overflow: hidden;">
+    <img src="image/QuinchY.gif" alt="Logo" style="float: right; width: 250px; margin-top: 50px;"/>
+</div>
 
 # About Me
 
