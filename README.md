@@ -2,7 +2,7 @@
 
 <div align="right">
 
-<img align="right" style="width:200px;" src="image/QuinchY.gif"/>
+<img align="right" style="width:200px; margin-top:10px;" src="image/QuinchY.gif"/>
 
 </div>
 
