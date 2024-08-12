@@ -5,14 +5,14 @@
 </span>
 
 <b>About Me</b>
-<hr style="height: 2px; background-color: #000000; border: none;">
+<hr style="height: 1px; background-color: #000000; border: none;">
 
 <p>➡️ Hello! My name is Cyril James De Guzman.  <br><br>➡️ I'm a Computer Science Student Majoring in Software Development in Bataan Peninsula State University - Main Campus.<br><br>➡️ I am focused on Software Development though I love exploring new technology and learning new things.</p>
 
 <br clear="both">
 
 ### Technologies
-<hr style="height: 2px; background-color: #000000; border: none;">
+<hr style="height: 1px; background-color: #000000; border: none;">
 
 <div>
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
