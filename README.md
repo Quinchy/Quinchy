@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img align="center" style="width:200px;" src="image/QuinchY.gif"/>
+<img align="right" style="width:200px;" src="image/QuinchY.gif"/>
 
 </div>
 
-<h1 align="center">About Me</h1>
+<h1>About Me</h1>
 
 
 <p>➡️ Hello! My name is Cyril James De Guzman.  <br><br>➡️ I'm a Computer Science Student Majoring in Software Development in Bataan Peninsula State University - Main Campus.<br><br>➡️ I am focused on Software Development though I love exploring new technology and learning new things.</p>
