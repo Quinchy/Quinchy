@@ -4,13 +4,13 @@
     <img src="image/QuinchY.gif" align="right" alt="Logo" style="width: 250px;">
 </span>
 
-# About Me
+<b>About Me</b>
 
 <p>➡️ Hello! My name is Cyril James De Guzman.  <br><br>➡️ I'm a Computer Science Student Majoring in Software Development in Bataan Peninsula State University - Main Campus.<br><br>➡️ I am focused on Software Development though I love exploring new technology and learning new things.</p>
 
 <br clear="both">
 
-# Technologies
+### Technologies
 
 
 <div>
@@ -48,7 +48,7 @@
 </div>
 <br />
 
-# Stats
+### Stats
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quinchy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
