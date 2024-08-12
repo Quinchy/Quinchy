@@ -1,13 +1,13 @@
 [![](https://visitcount.itsvg.in/api?id=Quinchy&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<div style="overflow: auto;">
-  <img src="image/QuinchY.gif" alt="My Logo" align="right" style="float: right; width: 200px; margin-left: 20px;">
-  <p>
-    👋 Hello! My name is Cyril James De Guzman.<br>
-    💻 I'm a Computer Science Student Majoring in Software Development at Bataan Peninsula State University - Main Campus.<br>
-    🚀 I am focused on Software Development, though I love exploring new technology and learning new things.
-  </p>
-</div>
+<img align="right" style="width:200px;float: right;" src="image/QuinchY.gif"/>
+
+<h1>About Me</h1>
+
+
+<p>➡️ Hello! My name is Cyril James De Guzman.  <br><br>➡️ I'm a Computer Science Student Majoring in Software Development in Bataan Peninsula State University - Main Campus.<br><br>➡️ I am focused on Software Development though I love exploring new technology and learning new things.</p>
+
+
 <br />
 
 <h2 align="center">Technologies I Have Used</h2>
