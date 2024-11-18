@@ -7,7 +7,7 @@
 ### About Me
 <hr style="height: 1px; background-color: #000000; border: none;">
 
-<p>➡ Hello! My name is Cyril James De Guzman.  <br><br>➡ I'm a Full-Stack Software Developer. <br><br>➡ I Graduated at Bataan Peninsula State University with a Bachelor of Science in Computer Science Major in Software Development.</p>
+<p>➡ Hello! My name is Cyril James De Guzman.  <br><br>➡ I'm a Full-Stack Software Developer with a proficiency in NextJS and React. <br><br>➡ I Graduated at Bataan Peninsula State University with a Bachelor of Science in Computer Science Major in Software Development. <br><br>➡ Aside from NextJS, I am using a bunch of technologies such as Laravel and React Native, and open to using and learning more in the future.</p>
 
 <br clear="both">
 
