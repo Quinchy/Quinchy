@@ -14,9 +14,7 @@
 ### Technologies
 <hr style="height: 1px; background-color: #000000; border: none;">
 
-<div>
-    <i class="ci ci-laravel"></i>
-</div>
+<i class="ci ci-laravel"></i>
 <br />
 
 ### Stats
