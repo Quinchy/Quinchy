@@ -13,14 +13,66 @@
 
 ### Technologies
 <hr style="height: 1px; background-color: #000000; border: none;">
-
-<i class="ci ci-laravel"></i>
+🔸 Front-end: HTML, CSS3, TailwindCSS, Javascript  
+<br clear="both">
+🔸 Back-end: JavaScript, Typescript, PHP, Python, Java, C#
+<br clear="both">
+🔸 Frameworks: Next.js, Laravel, React Native Expo, Android Studio
+<br clear="both">
+🔸 Databases: Supabase, MySQL, Firebase
+<br clear="both">
+🔸 Deployment: Vercel, Render, Heroku
+<br clear="both">
+🔸 Others: Node.js, NPM, Yarn, Turborepo
+<br clear="both">
+<br clear="both">
+<br clear="both">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+</div>
 <br />
 
 ### Stats
 <hr style="height: 2px; background-color: #000000; border: none;">
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quinchy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Quinchy&theme=tokyonight&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quinchy&locale=en&hide_title=false&layout=compact&card_width=250&border_radius=6&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="145" alt="languages graph" />
+<img src="https://streak-stats.demolab.com?user=Quinchy&locale=en&mode=weekly&theme=tokyonight&card_width=420&hide_border=true&border_radius=6&order=3" height="145" alt="streak graph" />
+<img src="https://github-profile-trophy.vercel.app?username=Quinchy&theme=tokyonight&column=3&row=1&margin-w=3&margin-h=3&no-bg=false&no-frame=true&order=3" height="145" alt="trophy graph" />
 </div>
