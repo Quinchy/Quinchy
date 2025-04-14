@@ -7,7 +7,7 @@
 ### About Me
 <hr style="height: 1px; background-color: #000000; border: none;">
 
-<p>➡ Hello! I’m Cyril James De Guzman, a Software Developer with specialization in Web and Mobile Development. <br><br>➡ I graduated with a degree of Bachelor of Science in Computer Science Major in Software Development. <br><br>➡ I use modern technologies such as Next.js, Laravel, React Native Expo, and etc for building maintainable, scalable, and efficient full-stack applications. </p>
+<p🔸 Hello! I’m Cyril James De Guzman, a Software Developer with specialization in Web and Mobile Development. <br><br>🔸 I graduated with a degree of Bachelor of Science in Computer Science Major in Software Development. <br><br>🔸 I use modern technologies such as Next.js, Laravel, React Native Expo, and etc for building maintainable, scalable, and efficient full-stack applications. </p>
 
 <br clear="both">
 
