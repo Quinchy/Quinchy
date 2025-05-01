@@ -67,12 +67,3 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
 <br />
-
-### Stats
-<hr style="height: 2px; background-color: #000000; border: none;">
-
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quinchy&locale=en&hide_title=false&layout=compact&card_width=250&border_radius=6&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="145" alt="languages graph" />
-<img src="https://streak-stats.demolab.com?user=Quinchy&locale=en&mode=weekly&theme=tokyonight&card_width=420&hide_border=true&border_radius=6&order=3" height="145" alt="streak graph" />
-<img src="https://github-profile-trophy.vercel.app?username=Quinchy&theme=tokyonight&column=1&row=1&margin-w=3&margin-h=5&no-bg=false&no-frame=true&order=4" height="145" alt="trophy graph" />
-</div>
