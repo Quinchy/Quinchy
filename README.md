@@ -5,9 +5,9 @@
 <table>
   <tr>
     <td valign="top">
-      <p>🔸 I’m a Full-Stack Software Developer based in the Philippines with experience in web and mobile development.</p>
-      <p>🔸 I graduated with a degree in Computer Science, Major in Software Development.</p>
-      <p>🔸 I utilize modern technologies such as Next.js, Laravel, React Native, etc. to build scalable and efficient software applications.</p>
+      <p>• I’m a Full-Stack Software Developer based in the Philippines with experience in web and mobile development.</p>
+      <p>• I graduated with a degree in Computer Science, Major in Software Development.</p>
+      <p>• I utilize modern technologies such as Next.js, Laravel, React Native, etc. to build scalable and efficient software applications.</p>
     </td>
     <td align="right" valign="top">
       <img src="image/QuinchY.gif" alt="Logo" width="150">
@@ -16,17 +16,34 @@
 </table>
 
 
-# Technologies
-🔸 Front-end: HTML, CSS3, TailwindCSS, Javascript  
-🔸 Back-end: JavaScript, Typescript, PHP, Python, Java, C#
-<br clear="both">
-🔸 Frameworks: Next.js, Laravel, React Native Expo, Android Studio
-<br clear="both">
-🔸 Databases: Supabase, MySQL, Firebase
-<br clear="both">
-🔸 Deployment: Vercel, Render, Heroku
-<br clear="both">
-🔸 Others: Node.js, NPM, Yarn, Turborepo
+# Skills
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td valign="top" style="padding: 0; margin: 0;"><strong>Front-end:</strong></td>
+    <td valign="top" style="padding: 0; margin: 0;">HTML, CSS3, TailwindCSS, JavaScript, React.js</td>
+  </tr>
+  <tr>
+    <td valign="top" style="padding: 0; margin: 0;"><strong>Back-end:</strong></td>
+    <td valign="top" style="padding: 0; margin: 0;">JavaScript, TypeScript, PHP, Python, C#, Java</td>
+  </tr>
+  <tr>
+    <td valign="top" style="padding: 0; margin: 0;"><strong>Frameworks:</strong></td>
+    <td valign="top" style="padding: 0; margin: 0;">Next.js, Laravel, React Native (Expo), FastAPI</td>
+  </tr>
+  <tr>
+    <td valign="top" style="padding: 0; margin: 0;"><strong>Databases:</strong></td>
+    <td valign="top" style="padding: 0; margin: 0;">PostgreSQL (Supabase), MySQL (XAMPP), NoSQL (Firebase)</td>
+  </tr>
+  <tr>
+    <td valign="top" style="padding: 0; margin: 0;"><strong>Deployment:</strong></td>
+    <td valign="top" style="padding: 0; margin: 0;">Vercel, Render, Heroku</td>
+  </tr>
+  <tr>
+    <td valign="top" style="padding: 0; margin: 0;"><strong>Tools & OS:</strong></td>
+    <td valign="top" style="padding: 0; margin: 0;">Visual Studio Code, Android Studio, Git, Windows, CMD/Powershell, Postman</td>
+  </tr>
+</table>
+
 <br clear="both">
 <br clear="both">
 <br clear="both">
