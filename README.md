@@ -1,15 +1,20 @@
 [![](https://visitcount.itsvg.in/api?id=Quinchy&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<span align="right">
-    <img src="image/QuinchY.gif" align="right" alt="Logo" style="width: 250px;">
-</span>
+# Hi 👋, I'm Cyril James De Guzman
 
-### About Me
-<hr style="height: 1px; background-color: #000000; border: none;">
+<table>
+  <tr>
+    <td valign="top">
+      <p>🔸 I’m a Full-Stack Software Developer based in the Philippines with experience in web and mobile development.</p>
+      <p>🔸 I graduated with a degree in Computer Science, Major in Software Development.</p>
+      <p>🔸 I utilize modern technologies such as Next.js, Laravel, React Native, etc. to build scalable and efficient software applications.</p>
+    </td>
+    <td align="right" valign="top">
+      <img src="image/QuinchY.gif" alt="Logo" width="150">
+    </td>
+  </tr>
+</table>
 
-<p>🔸 Hello! I’m Cyril James De Guzman, a Full-Stack Software Developer based in the Philippines. <br><br>🔸 I graduated with a degree of Computer Science with Major in Software Development. <br><br>🔸 I utilize modern technologies such as Next.js, Laravel, React Native, and etc for building scalable, and efficient software applications. </p>
-
-<br clear="both">
 
 ### Technologies
 <hr style="height: 1px; background-color: #000000; border: none;">
