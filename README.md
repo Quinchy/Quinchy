@@ -45,8 +45,7 @@
 </table>
 
 <br clear="both">
-<br clear="both">
-<br clear="both">
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
