@@ -16,10 +16,8 @@
 </table>
 
 
-### Technologies
-<hr style="height: 1px; background-color: #000000; border: none;">
+# Technologies
 🔸 Front-end: HTML, CSS3, TailwindCSS, Javascript  
-<br clear="both">
 🔸 Back-end: JavaScript, Typescript, PHP, Python, Java, C#
 <br clear="both">
 🔸 Frameworks: Next.js, Laravel, React Native Expo, Android Studio
